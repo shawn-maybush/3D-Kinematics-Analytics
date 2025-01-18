@@ -1,6 +1,6 @@
 # 3D-Kinematics-Analytics
 
-This repository explores the intersection of **kinematics, machine learning, and data analysis**, focusing on robotics. It provides tools and techniques for understanding and solving problems in 3D kinematics, pushing the boundaries of robot motion and control.
+This repository explores the intersection of **kinematics, machine learning, and data analysis**, focusing on robotics. 
 
 **Key Features**
 
@@ -10,11 +10,4 @@ This repository explores the intersection of **kinematics, machine learning, and
 * **Interactive Visualizations:**  Gain intuitive insights into kinematic principles through interactive visualizations and data-driven exploration.
 * **Practical Robotics Applications:**  Bridge the gap between theory and practice with examples and case studies demonstrating the use of these techniques in real-world robotics scenarios.
 
-**Who is this for?**
 
-This repository is a valuable resource for:
-
-* **Robotics Researchers:**  Explore novel approaches and contribute to advancing kinematic analysis in robotics.
-* **Students:**  Gain a deeper understanding of kinematic principles and their applications in robotics.
-* **Engineers:**  Develop and implement practical robot motion planning and control solutions.
-* **Anyone passionate about robotics:**  Discover the fascinating world of robot movement and contribute to the future of robotics.
